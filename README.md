@@ -12,7 +12,7 @@
 
 # SwiftLintPlugin
 
-A Swift Package Plugin for [SwiftLint](https://github.com/realm/SwiftLint/) that will run SwiftLint on build time and show errors & warnings in Xcode.
+A Swift Package Plugin for [SwiftLint](https://github.com/realm/SwiftLint/) that will run SwiftLint on build time and show errors & warnings in Xcode. This plugin has been modified to support Xcode cloud.
 
 > **Note** 
 > There now is an official version in the [SwiftLint repo](https://github.com/realm/SwiftLint#plug-in-support)!
